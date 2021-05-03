@@ -18,5 +18,7 @@ let wrapAdjective= function(visual="*"){
 //wrapAdjective("%")("a dedicated programmer")
 
 let Calculator = {
-
+ add: function(a,b){
+    return a+b
+ }
 }
