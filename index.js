@@ -16,3 +16,5 @@ let wrapAdjective= function(visual="*"){
 }
 //wrapAdjective()()
 //wrapAdjective("%")("a dedicated programmer")
+
+let Calculator
